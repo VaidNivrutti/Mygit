@@ -8,22 +8,21 @@
 
     <article>
         <p>        
-            Use this area to provide additional information.
+Kiran        </p>
+
+        <p>        
+            Kiran.
         </p>
 
         <p>        
-            Use this area to provide additional information.
-        </p>
-
-        <p>        
-            Use this area to provide additional information.
+            Kiran.
         </p>
     </article>
 
     <aside>
-        <h3>Aside Title</h3>
+        <h3>Kiran</h3>
         <p>        
-            Use this area to provide additional information.
+            Kiran
         </p>
         <ul>
             <li><a runat="server" href="~/">Home</a></li>
